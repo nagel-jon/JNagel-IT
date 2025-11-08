@@ -2706,7 +2706,7 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #f2849e;
+				background-color: #000000;
 			}
 
 			.tiles article.style2 > .image:before {
@@ -2714,7 +2714,7 @@ input, select, textarea {
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #7bd0c1;
+				background-color: #409b53;
 			}
 
 			.tiles article.style4 > .image:before {
